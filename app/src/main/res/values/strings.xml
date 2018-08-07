@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StepChanger</string>
+    <string name="words">当前移动步数</string>
 </resources>
